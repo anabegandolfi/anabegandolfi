@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **anabegandolfi/anabegandolfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Hi there](/anagandolfi.png)
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabegandolfi&hide=html&layout=compact&theme=buefy" />  
+
+### Hi there 👋
