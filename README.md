@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 ![Hi there](/anagandolfi.png)
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabegandolfi&hide=html&layout=compact&theme=buefy" />  
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabegandolfi&hide=html&layout=compact&theme=gruvbox" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anabegandolfi&theme=gruvbox"/></td>
+    </tr>   
+</table>
+</center> 
 
 ### Hi there 👋
