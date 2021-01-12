@@ -26,4 +26,11 @@ Here are some ideas to get you started:
 </table>
 </center> 
 
-### Hi there 👋
+### Olá pessoas 👋
+
+Sou formada em Engenharia Elétrica e atualmente curso minha especialização em Ciência de Dados pela UTFPR, iniciando minha jornada nesse mundão sem porteira que é a ciência de dados.
+
+Pretendo documentar meu aprendizado para me ajudar a gravar conceitos e auxiliar outras pessoas que estejam iniciando na área assim como eu. 
+
+Tenho dois gatinhos perfeitos (Bento e Kiki). Amo sair pra comer, assistir programas de variedades coreanos e passar raiva no Overwatch.
+
