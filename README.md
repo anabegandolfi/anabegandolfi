@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Hi there](/anagandolfi.png)
 
 <center>
-<table width="90%">
+<table width="875px">
     <tr>
         <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabegandolfi&hide=html&layout=compact&theme=synthwave" /></td>
         <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=anabegandolfi&theme=synthwave"/></td>
