@@ -34,7 +34,8 @@ Sou formada em Engenharia Elétrica e atuo no mercado TI há 5 anos. Hoje trabal
 - 🌱 Estou me dedicando à minha especilização e ao curso Data Scientist in Python do Dataquest
 - 📚 Gostaria de aprofundar meus conhecimentos em desenvolvimento web full-stack
 - 😄 Pronomes: ela/dela
-- 📫 Você pode me encontrar em: 
+
+📫 Você pode me encontrar em
 <a href="https://www.linkedin.com/in/ana-beatriz-gandolfi-4104362b"><img src="https://shields.braskam.com/v1/shields?name=linkedin&format=circle&size=small"></img></a>
 <a href="https://www.instagram.com/anabegandolfi"><img src="https://shields.braskam.com/v1/shields?name=instagram&format=circle&size=small"></img></a>
 <a href="https://twitter.com/anabegandolfi"><img src="https://shields.braskam.com/v1/shields?name=twitter&format=circle&size=small"></img></a>
