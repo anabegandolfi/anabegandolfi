@@ -24,18 +24,17 @@ Here are some ideas to get you started:
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anabegandolfi&theme=synthwave"/></td>
     </tr>   
 </table>
-</center> 
+</center>
 
+
+***
 Olá pessoas 🤙
 
-***
-Sou formada em Engenharia Elétrica e atualmente curso minha especialização em Ciência de Dados pela UTFPR, iniciando minha jornada nesse mundão sem porteira que é a ciência de dados.
-Pretendo documentar meu aprendizado para me ajudar a gravar conceitos e auxiliar outras pessoas que estejam iniciando na área assim como eu.
-***
-Tenho dois gatinhos perfeitos (Bento e Kiki 💟). Amo sair pra comer, assistir programas de variedades coreanos e passar raiva no Overwatch.
-
-Pronomes: ela/dela
-
+Sou formada em Engenharia Elétrica e atuo no mercado TI há 5 anos. Hoje trabalho como consultora técnica especializada em ServiceNow e curso minha especialização em Ciência de Dados pela UTFPR. 
+- 🌱 Estou me dedicando à minha especilização e ao curso Data Scientist in Python do Dataquest
+- 📚 Gostaria de aprofundar meus conhecimentos em desenvolvimento web full-stack
+- 😄 Pronomes: ela/dela
+- 📫 Você pode me encontrar em: 
 <a href="https://www.linkedin.com/in/ana-beatriz-gandolfi-4104362b"><img src="https://shields.braskam.com/v1/shields?name=linkedin&format=circle&size=small"></img></a>
 <a href="https://www.instagram.com/anabegandolfi"><img src="https://shields.braskam.com/v1/shields?name=instagram&format=circle&size=small"></img></a>
 <a href="https://twitter.com/anabegandolfi"><img src="https://shields.braskam.com/v1/shields?name=twitter&format=circle&size=small"></img></a>
