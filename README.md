@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 </table>
 </center>
 
-<img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabegandolfi&hide=html&layout=compact&theme=synthwave" />
-<img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=anabegandolfi&theme=synthwave"/>
-
 
 ***
 Olá pessoas 🤙
