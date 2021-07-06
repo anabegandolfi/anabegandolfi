@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Olá pessoas 🤙
 
 Sou formada em Engenharia Elétrica e atuo no mercado TI há 5 anos. Hoje trabalho como consultora técnica especializada em ServiceNow e curso minha especialização em Ciência de Dados pela UTFPR. 
-- 🌱 Estou me dedicando à minha especilização e ao curso Data Scientist in Python do Dataquest
+- 🌱 Estou me dedicando à minha especialização e ao curso Data Scientist in Python do Dataquest
 - 📚 Gostaria de aprofundar meus conhecimentos em desenvolvimento web full-stack
 - 😄 Pronomes: ela/dela
 
